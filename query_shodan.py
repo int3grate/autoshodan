@@ -3,4 +3,10 @@
 #
 #  Author: Nicholas Miles
 #
+from config import *
+import shodan
+
+class QueryShodan:
+
+
 
